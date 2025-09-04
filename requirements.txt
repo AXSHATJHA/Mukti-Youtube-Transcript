@@ -1,0 +1,8 @@
+fastapi 
+uvicorn[standard]
+langchain 
+langchain_openai 
+youtube_transcript_api 
+pydantic 
+python-dotenv
+load_dotenv
